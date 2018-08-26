@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CBE56D0F-469E-478A-9534-8287385B247B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Gestion_Pharmacie_V3</RootNamespace>
+    <AssemblyName>Gestion_Pharmacie_V3</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\PC\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icons-Land-Gis-Gps-Map-Pharmacy.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>CD766F55947B831A3E4A64DBE45F62D17762E2A2</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Gestion_Pharmacie_V3_CléTemporaire.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Bunifu Technologies\Bunifu Framework Manager\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EDM.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EDM.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EDM.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EDM.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EDM.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginApp.cs">
+      <DependentUpon>EDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\Admin_User\Produit\F_AjouterProduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\Admin_User\Produit\F_AjouterProduit.Designer.cs">
+      <DependentUpon>F_AjouterProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\Admin_User\Produit\F_ListeProduits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\Admin_User\Produit\F_ListeProduits.Designer.cs">
+      <DependentUpon>F_ListeProduits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\Admin\F_MenuAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\Admin\F_MenuAdmin.Designer.cs">
+      <DependentUpon>F_MenuAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\Admin\Client\F_TousLesClientsAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\Admin\Client\F_TousLesClientsAdmin.Designer.cs">
+      <DependentUpon>F_TousLesClientsAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\Admin_User\Produit\F_ModifierProduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\Admin_User\Produit\F_ModifierProduit.Designer.cs">
+      <DependentUpon>F_ModifierProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\Developper\ParametreProduitAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\Developper\ParametreProduitAdmin.Designer.cs">
+      <DependentUpon>ParametreProduitAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\Admin_User\F_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\Admin_User\F_Login.Designer.cs">
+      <DependentUpon>F_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\Developper\F_Developpeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\Developper\F_Developpeur.Designer.cs">
+      <DependentUpon>F_Developpeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Client\F_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Client\F_Client.Designer.cs">
+      <DependentUpon>F_Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Client\F_ModifierClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Client\F_ModifierClient.Designer.cs">
+      <DependentUpon>F_ModifierClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Client\F_TousLesClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Client\F_TousLesClients.Designer.cs">
+      <DependentUpon>F_TousLesClients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Client\InfoClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Client\InfoClient.Designer.cs">
+      <DependentUpon>InfoClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Fournisseur\F_AjouterFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Fournisseur\F_AjouterFournisseur.Designer.cs">
+      <DependentUpon>F_AjouterFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Fournisseur\F_Fournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Fournisseur\F_Fournisseur.Designer.cs">
+      <DependentUpon>F_Fournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Fournisseur\F_MenuFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Fournisseur\F_MenuFournisseur.Designer.cs">
+      <DependentUpon>F_MenuFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Produit\F_AjouterProduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Produit\F_AjouterProduit.Designer.cs">
+      <DependentUpon>F_AjouterProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Client\F_AjouterClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Client\F_AjouterClient.Designer.cs">
+      <DependentUpon>F_AjouterClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\Admin_User\F_FichierBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\Admin_User\F_FichierBase.Designer.cs">
+      <DependentUpon>F_FichierBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Achats\F_GestionAchats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Achats\F_GestionAchats.Designer.cs">
+      <DependentUpon>F_GestionAchats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\Developper\F_Paramétre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\Developper\F_Paramétre.Designer.cs">
+      <DependentUpon>F_Paramétre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Produit\F_SelectionProduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Produit\F_SelectionProduit.Designer.cs">
+      <DependentUpon>F_SelectionProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\F_UtilisateurMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\F_UtilisateurMenu.Designer.cs">
+      <DependentUpon>F_UtilisateurMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Produit\MAJ_Produit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Produit\MAJ_Produit.Designer.cs">
+      <DependentUpon>MAJ_Produit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Ventes\F_Vente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentations\F_Utilisateur\Ventes\F_Vente.Designer.cs">
+      <DependentUpon>F_Vente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TableCategorie.cs">
+      <DependentUpon>EDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TableFarmTarif.cs">
+      <DependentUpon>EDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TableForme.cs">
+      <DependentUpon>EDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TableGrossiste.cs">
+      <DependentUpon>EDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TableLabo.cs">
+      <DependentUpon>EDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TableProduit.cs">
+      <DependentUpon>EDM.tt</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Presentations\Admin_User\Produit\F_AjouterProduit.resx">
+      <DependentUpon>F_AjouterProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\Admin_User\Produit\F_ListeProduits.resx">
+      <DependentUpon>F_ListeProduits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\Admin\F_MenuAdmin.resx">
+      <DependentUpon>F_MenuAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\Admin\Client\F_TousLesClientsAdmin.resx">
+      <DependentUpon>F_TousLesClientsAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\Admin_User\Produit\F_ModifierProduit.resx">
+      <DependentUpon>F_ModifierProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\Developper\ParametreProduitAdmin.resx">
+      <DependentUpon>ParametreProduitAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\Developper\F_Developpeur.resx">
+      <DependentUpon>F_Developpeur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\Admin_User\F_Login.resx">
+      <DependentUpon>F_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\Client\F_Client.resx">
+      <DependentUpon>F_Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\Client\F_ModifierClient.resx">
+      <DependentUpon>F_ModifierClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\Client\F_TousLesClients.resx">
+      <DependentUpon>F_TousLesClients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\Client\InfoClient.resx">
+      <DependentUpon>InfoClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\Fournisseur\F_AjouterFournisseur.resx">
+      <DependentUpon>F_AjouterFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\Fournisseur\F_Fournisseur.resx">
+      <DependentUpon>F_Fournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\Fournisseur\F_MenuFournisseur.resx">
+      <DependentUpon>F_MenuFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\Produit\F_AjouterProduit.resx">
+      <DependentUpon>F_AjouterProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\Client\F_AjouterClient.resx">
+      <DependentUpon>F_AjouterClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\Admin_User\F_FichierBase.resx">
+      <DependentUpon>F_FichierBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\Achats\F_GestionAchats.resx">
+      <DependentUpon>F_GestionAchats.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\Developper\F_Paramétre.resx">
+      <DependentUpon>F_Paramétre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\Produit\F_SelectionProduit.resx">
+      <DependentUpon>F_SelectionProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\F_UtilisateurMenu.resx">
+      <DependentUpon>F_UtilisateurMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\Produit\MAJ_Produit.resx">
+      <DependentUpon>MAJ_Produit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentations\F_Utilisateur\Ventes\F_Vente.resx">
+      <DependentUpon>F_Vente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EntityDeploy Include="EDM.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>EDM.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="EDM.edmx.diagram">
+      <DependentUpon>EDM.edmx</DependentUpon>
+    </None>
+    <None Include="Gestion_Pharmacie_V3_CléTemporaire.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Models\" />
+    <Folder Include="Presentations\Admin\Produit\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="EDM.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>EDM.edmx</DependentUpon>
+      <LastGenOutput>EDM.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="EDM.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>EDM.edmx</DependentUpon>
+      <LastGenOutput>EDM.cs</LastGenOutput>
+    </Content>
+    <Content Include="Icons-Land-Gis-Gps-Map-Pharmacy.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

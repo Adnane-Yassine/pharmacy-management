@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GestionPharmacieModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="LoginApp">
+    <Key>
+      <PropertyRef Name="LoginUser" />
+    </Key>
+    <Property Name="LoginUser" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PassUser" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TypeUser" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="GestionPharmacieEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="LoginApps" EntityType="Self.LoginApp" />
+    <EntitySet Name="TableFormes" EntityType="GestionPharmacieModel.TableForme" />
+    <EntitySet Name="TableCategories" EntityType="GestionPharmacieModel.TableCategorie" />
+    <EntitySet Name="TableFarmTarifs" EntityType="GestionPharmacieModel.TableFarmTarif" />
+    <EntitySet Name="TableGrossistes" EntityType="GestionPharmacieModel.TableGrossiste" />
+    <EntitySet Name="TableLaboes" EntityType="GestionPharmacieModel.TableLabo" />
+    <EntitySet Name="TableProduits" EntityType="GestionPharmacieModel.TableProduit" />
+  </EntityContainer>
+  <EntityType Name="TableForme">
+    <Key>
+      <PropertyRef Name="FormeID" />
+    </Key>
+    <Property Name="FormeID" Type="Int32" Nullable="false" />
+    <Property Name="Forme" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TableCategorie">
+    <Key>
+      <PropertyRef Name="CategorieID" />
+    </Key>
+    <Property Name="CategorieID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Categorie" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TableFarmTarif">
+    <Key>
+      <PropertyRef Name="FarmTarifID" />
+    </Key>
+    <Property Name="FarmTarifID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FarmTarif" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TableGrossiste">
+    <Key>
+      <PropertyRef Name="GrossisteID" />
+    </Key>
+    <Property Name="GrossisteID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Grossiste" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TableLabo">
+    <Key>
+      <PropertyRef Name="LaboID" />
+    </Key>
+    <Property Name="LaboID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Labo" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TableProduit">
+    <Key>
+      <PropertyRef Name="ProduitID" />
+    </Key>
+    <Property Name="ProduitID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CodeBarre" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="DesignationPro" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Prixdachat" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="PrixVente" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="FormProduit" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="CategorieProduit" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="FamTarif" Type="Double" />
+    <Property Name="ProduitActif" Type="Int32" />
+    <Property Name="QteStock" Type="Int32" />
+    <Property Name="Laboratoire" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Grossiste" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

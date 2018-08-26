@@ -1,0 +1,219 @@
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe.config
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csprojResolveAssemblyReference.cache
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.F_Login.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Properties.Resources.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csproj.GenerateResource.Cache
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Admin.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Fichier_De_Base.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Utilisateur.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_ListeProduits.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe.config
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csprojResolveAssemblyReference.cache
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Admin.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.F_Login.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Fichier_De_Base.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_ListeProduits.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Utilisateur.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Properties.Resources.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csproj.GenerateResource.Cache
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.MAJ_Produit.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_SelectionProduit.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Developpeur.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_GestionAchats.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Proposition.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_ModifierProduit.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_AjouterProduit.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Paramétre.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_AjouterClient.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Client.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe.config
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csprojResolveAssemblyReference.cache
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Admin.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Developpeur.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.F_Login.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_AjouterProduit.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_AjouterClient.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Client.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Fichier_De_Base.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_GestionAchats.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_ListeProduits.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_ModifierProduit.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Paramétre.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Proposition.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_SelectionProduit.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Utilisateur.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.MAJ_Produit.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Properties.Resources.resources
+C:\Users\Adnane\Desktop\Gestion_Pharmacie_V3 - Copy\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csproj.GenerateResource.Cache
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe.config
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csprojResolveAssemblyReference.cache
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Admin.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Developpeur.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.F_Login.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Fournisseur.f_Fournisseur.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_AjouterProduit.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_AjouterClient.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Fichier_De_Base.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_GestionAchats.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_ListeProduits.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_ModifierProduit.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Paramétre.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Proposition.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_SelectionProduit.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Utilisateur.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.MAJ_Produit.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Properties.Resources.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csproj.GenerateResource.Cache
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Fournisseur.F_AjouterFournisseur.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Ventes.F_Vente.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.F_Client.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.F_TousLesClients.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.F_ModifierClient.resources
+C:\Users\Adnane\Desktop\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Fournisseur.F_MenuFournisseur.resources
+C:\Users\PC\Desktop\USB\ISTA\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe.config
+C:\Users\PC\Desktop\USB\ISTA\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\PC\Desktop\USB\ISTA\GitHub\Pharmacy-project\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe.config
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Developpeur.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.F_Login.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.F_Client.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.F_ModifierClient.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.F_TousLesClients.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Fournisseur.F_AjouterFournisseur.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Fournisseur.F_Fournisseur.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Fournisseur.F_MenuFournisseur.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_AjouterProduit.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_AjouterClient.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Fichier_De_Base.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_GestionAchats.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_ListeProduits.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_ModifierProduit.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Paramétre.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Proposition.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_SelectionProduit.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Utilisateur.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.MAJ_Produit.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Ventes.F_Vente.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Properties.Resources.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.F_FichierBaseAdmin.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.F_ListeProduitsAdmin.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.F_MenuAdmin.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.F_TousLesClientsAdmin.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.InfoClient.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.Produit.F_AjouterProduitAdmin.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.Produit.ParametreProduitAdmin.resources
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe.manifest
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.application
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.exe.manifest
+C:\Users\PC\Desktop\GitHub\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.application
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe.config
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe.manifest
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.application
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.F_MenuAdmin.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.F_TousLesClientsAdmin.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.Produit.ParametreProduitAdmin.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Developpeur.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.F_Login.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.F_Client.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.F_ModifierClient.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.F_TousLesClients.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.InfoClient.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Fournisseur.F_AjouterFournisseur.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Fournisseur.F_Fournisseur.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Fournisseur.F_MenuFournisseur.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_AjouterProduit.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_AjouterClient.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_GestionAchats.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Paramétre.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_SelectionProduit.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.MAJ_Produit.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Ventes.F_Vente.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Properties.Resources.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.exe.manifest
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.application
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.F_ListeProduits.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.Produit.F_AjouterProduit.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_UtilisateurMenu.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_FichierBase.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin_User.Produit.F_ModifierProduit.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe.config
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe.manifest
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.application
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.exe
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\Gestion_Pharmacie_V3.pdb
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.Produit.F_AjouterProduit.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.F_ListeProduits.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.F_MenuAdmin.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.F_TousLesClientsAdmin.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin_User.Produit.F_ModifierProduit.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.Admin.Produit.ParametreProduitAdmin.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Developpeur.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.F_Login.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.F_Client.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.F_ModifierClient.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.F_TousLesClients.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Client.InfoClient.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Fournisseur.F_AjouterFournisseur.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Fournisseur.F_Fournisseur.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Fournisseur.F_MenuFournisseur.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_AjouterProduit.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_AjouterClient.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_FichierBase.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_GestionAchats.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_Paramétre.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_SelectionProduit.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.F_UtilisateurMenu.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.MAJ_Produit.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Presentations.F_Utilisateur.Ventes.F_Vente.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.Properties.Resources.resources
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.exe.manifest
+C:\Users\PC\Desktop\Gestion-Pharmacie\Gestion-Pharmacie\Gestion-Pharmacie\Gestion_Pharmacie_V3\Gestion_Pharmacie_V3\obj\Debug\Gestion_Pharmacie_V3.application

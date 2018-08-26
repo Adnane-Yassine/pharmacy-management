@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GestionPharmacieModelStoreContainer" CdmEntityContainer="GestionPharmacieEntities">
+    <EntitySetMapping Name="LoginApps">
+      <EntityTypeMapping TypeName="GestionPharmacieModel.LoginApp">
+        <MappingFragment StoreEntitySet="LoginApp">
+          <ScalarProperty Name="LoginUser" ColumnName="LoginUser" />
+          <ScalarProperty Name="PassUser" ColumnName="PassUser" />
+          <ScalarProperty Name="TypeUser" ColumnName="TypeUser" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TableFormes">
+      <EntityTypeMapping TypeName="GestionPharmacieModel.TableForme">
+        <MappingFragment StoreEntitySet="TableForme">
+          <ScalarProperty Name="Forme" ColumnName="Forme" />
+          <ScalarProperty Name="FormeID" ColumnName="FormeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TableCategories">
+      <EntityTypeMapping TypeName="GestionPharmacieModel.TableCategorie">
+        <MappingFragment StoreEntitySet="TableCategorie">
+          <ScalarProperty Name="Categorie" ColumnName="Categorie" />
+          <ScalarProperty Name="CategorieID" ColumnName="CategorieID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TableFarmTarifs">
+      <EntityTypeMapping TypeName="GestionPharmacieModel.TableFarmTarif">
+        <MappingFragment StoreEntitySet="TableFarmTarif">
+          <ScalarProperty Name="FarmTarif" ColumnName="FarmTarif" />
+          <ScalarProperty Name="FarmTarifID" ColumnName="FarmTarifID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TableGrossistes">
+      <EntityTypeMapping TypeName="GestionPharmacieModel.TableGrossiste">
+        <MappingFragment StoreEntitySet="TableGrossiste">
+          <ScalarProperty Name="Grossiste" ColumnName="Grossiste" />
+          <ScalarProperty Name="GrossisteID" ColumnName="GrossisteID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TableLaboes">
+      <EntityTypeMapping TypeName="GestionPharmacieModel.TableLabo">
+        <MappingFragment StoreEntitySet="TableLabo">
+          <ScalarProperty Name="Labo" ColumnName="Labo" />
+          <ScalarProperty Name="LaboID" ColumnName="LaboID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TableProduits">
+      <EntityTypeMapping TypeName="GestionPharmacieModel.TableProduit">
+        <MappingFragment StoreEntitySet="TableProduit">
+          <ScalarProperty Name="Grossiste" ColumnName="Grossiste" />
+          <ScalarProperty Name="Laboratoire" ColumnName="Laboratoire" />
+          <ScalarProperty Name="QteStock" ColumnName="QteStock" />
+          <ScalarProperty Name="ProduitActif" ColumnName="ProduitActif" />
+          <ScalarProperty Name="FamTarif" ColumnName="FamTarif" />
+          <ScalarProperty Name="CategorieProduit" ColumnName="CategorieProduit" />
+          <ScalarProperty Name="FormProduit" ColumnName="FormProduit" />
+          <ScalarProperty Name="PrixVente" ColumnName="PrixVente" />
+          <ScalarProperty Name="Prixdachat" ColumnName="Prixdachat" />
+          <ScalarProperty Name="DesignationPro" ColumnName="DesignationPro" />
+          <ScalarProperty Name="CodeBarre" ColumnName="CodeBarre" />
+          <ScalarProperty Name="ProduitID" ColumnName="ProduitID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f78f3f1cb17b402cb4ea10fa7e6381c5" Name="Diagram1">
+        <EntityTypeShape EntityType="GestionPharmacieModel.LoginApp" Width="1.5" PointX="0.5" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GestionPharmacieModel.TableForme" Width="1.5" PointX="7" PointY="5.75" />
+        <EntityTypeShape EntityType="GestionPharmacieModel.TableCategorie" Width="1.5" PointX="5.375" PointY="5.75" />
+        <EntityTypeShape EntityType="GestionPharmacieModel.TableFarmTarif" Width="1.5" PointX="3.75" PointY="5.75" />
+        <EntityTypeShape EntityType="GestionPharmacieModel.TableGrossiste" Width="1.5" PointX="2.125" PointY="5.75" />
+        <EntityTypeShape EntityType="GestionPharmacieModel.TableLabo" Width="1.5" PointX="0.5" PointY="5.75" />
+        <EntityTypeShape EntityType="GestionPharmacieModel.TableProduit" Width="1.5" PointX="7.125" PointY="0.625" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

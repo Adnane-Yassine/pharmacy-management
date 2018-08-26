@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GestionPharmacieModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="LoginApp">
+    <Key>
+      <PropertyRef Name="LoginUser" />
+    </Key>
+    <Property Name="LoginUser" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="PassUser" Type="nvarchar" MaxLength="20" />
+    <Property Name="TypeUser" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TableCategorie">
+    <Key>
+      <PropertyRef Name="CategorieID" />
+    </Key>
+    <Property Name="CategorieID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Categorie" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TableFarmTarif">
+    <Key>
+      <PropertyRef Name="FarmTarifID" />
+    </Key>
+    <Property Name="FarmTarifID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FarmTarif" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TableForme">
+    <Key>
+      <PropertyRef Name="FormeID" />
+    </Key>
+    <Property Name="FormeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Forme" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TableGrossiste">
+    <Key>
+      <PropertyRef Name="GrossisteID" />
+    </Key>
+    <Property Name="GrossisteID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Grossiste" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TableLabo">
+    <Key>
+      <PropertyRef Name="LaboID" />
+    </Key>
+    <Property Name="LaboID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Labo" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TableProduit">
+    <Key>
+      <PropertyRef Name="ProduitID" />
+    </Key>
+    <Property Name="ProduitID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeBarre" Type="nvarchar" MaxLength="20" />
+    <Property Name="DesignationPro" Type="nvarchar" MaxLength="20" />
+    <Property Name="Prixdachat" Type="money" />
+    <Property Name="PrixVente" Type="money" />
+    <Property Name="FormProduit" Type="nvarchar" MaxLength="20" />
+    <Property Name="CategorieProduit" Type="nvarchar" MaxLength="20" />
+    <Property Name="FamTarif" Type="float" />
+    <Property Name="ProduitActif" Type="int" />
+    <Property Name="QteStock" Type="int" />
+    <Property Name="Laboratoire" Type="nvarchar" MaxLength="20" />
+    <Property Name="Grossiste" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityContainer Name="GestionPharmacieModelStoreContainer">
+    <EntitySet Name="LoginApp" EntityType="Self.LoginApp" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TableCategorie" EntityType="Self.TableCategorie" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TableFarmTarif" EntityType="Self.TableFarmTarif" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TableForme" EntityType="Self.TableForme" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TableGrossiste" EntityType="Self.TableGrossiste" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TableLabo" EntityType="Self.TableLabo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TableProduit" EntityType="Self.TableProduit" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
